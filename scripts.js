@@ -62,6 +62,4 @@ const quotes = [
 
   quoteBtn.addEventListener("click", getQuote);
 
-  //Sugestão de implementação:
-  /*construir backend que fornece citações e por meio de uma requisição assíncrona ele traz os dados para o projeto e gera aleatoriamente citações que podem ser alteraradas
-   por meio de um banco de dados.*/
+ 
